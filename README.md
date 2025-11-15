@@ -16,8 +16,12 @@ Esse projeto é um estudo de análise de vendas usando Python e Pandas.
 
 ## Como executar
 
-### 1️. Instalar dependências
-No terminal, digite:
+### No terminal, digite:
 
 ```bash
+# Instalar dependências
 pip install pandas
+
+# Executar o script
+python analise_vendas.py
+
